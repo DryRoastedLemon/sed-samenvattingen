@@ -2,6 +2,7 @@
 title: Wat zijn waterstofbruggen?
 ---
 ![[Waterstofbruggen.png]]
+
 In dit plaatje zijn de groene streepjes tussen de H- en O-atomen de waterstofbruggen. Ze ontstaan dus tussen waterstofatomen (H) en, in dit geval, zuurstofatomen (O). Ze kunnen ook ontstaan tussen waterstofatomen (H) en stikstofatomen (N).
 # Wat is een waterstofbrug?
 - Je kent het fenomeen wel dat magneten elkaar aantrekken: de pluspool wordt aangetrokken door de minpool.
