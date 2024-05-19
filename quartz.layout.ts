@@ -21,12 +21,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  beforeBody: [
+    Component.MobileOnly(Component.Explorer()),    
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.DesktopOnly(Component.Graph()),
