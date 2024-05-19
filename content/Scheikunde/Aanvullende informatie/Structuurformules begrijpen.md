@@ -32,6 +32,15 @@ title: Structuurformules begrijpen
 - Lithium hoeft maar één elektron teveel om op helium te lijken.
 - Onthoudt: na groep 18 gaat het periodiek systeem gewoon verder in de volgende periode. Na helium komt dus lithium. 
 - Lithium heeft één elektron meer dan helium, dus die staat dat maar al te graag af. Dat is waarom lithium heel heftig kan reageren.
+
+# Wat is een polaire binding?
+![[polairebinding.png]]
+- Je hebt vast weleens gehoord dat watermoleculen een plus- en een minpool hebben. Dat komt doordat niet alle elementen hun elektronen "eerlijk" met elkaar delen.
+- Sommige elementen zijn **elektronegatiever**. Dat heeft met hun massa te maken. Hoe elektronegatiever (en veelal ook zwaarder) een element is, hoe langer een elektron bij dat element blijft hangen.
+- Zuurstof is elektronegatiever dan waterstof, dus blijven elektronen langer hangen aan de zuurstofkant van het molecuul. Elektronen zijn negatief, dus dat gedeelte van het molecuul wordt dan ook negatiever dan het andere deel.
+- Zo'n binding noem je een **polaire (covalente) binding**.
+- Hierdoor ontstaan polen in een molecuul.
+- Door dit fenomeen ontstaan ook [[Waterstofbruggen|waterstofbruggen]].
 # Oke, maar wattefak is dit dan?
 ![[koolstofdioxide.png]]
 - Aha, koolstofdioxide! Je ziet daar in plaats van enkele streepjes dubbele streepjes.
