@@ -1,6 +1,7 @@
 ---
 title: Intro tot koolstofchemie
 ---
+**Let op:** lees eerst [[Structuurformules begrijpen]].
 # Hoe komen koolstofketens aan hun naam?
 1. De lengte van de langste reeks C'tjes wordt bepaald
 2. Op basis van de lengte van de keten, en of er enkele, dubbele of andere bindingen voorkomen in die reeks krijgt het een basisnaam volgens BINAS 66D.
