@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 3: Molariteit"
+title: "3: Molariteit"
 ---
 
 - 1 mol = 6,022... x 10<sup>23</sup> deeltjes

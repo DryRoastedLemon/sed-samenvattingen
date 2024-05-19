@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 1: De pH van een oplossing"
+title: "1: De pH van een oplossing"
 ---
 
 - De **zuurgraad (pH)** van een oplossing kan **zuur**, **basisch** of **neutraal** zijn

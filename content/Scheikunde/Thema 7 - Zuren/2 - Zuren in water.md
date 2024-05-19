@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 2: Zuren in water"
+title: "2: Zuren in water"
 ---
 
 - De meeste zuren zijn moleculaire stoffen waarin de atoomsoort H voorkomt.

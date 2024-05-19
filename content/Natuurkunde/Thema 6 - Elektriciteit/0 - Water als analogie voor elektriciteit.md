@@ -1,5 +1,5 @@
 ---
-title: Water als analogie voor elektriciteit
+title: "Extra: Water als analogie voor elektriciteit"
 ---
 
 ![[electricity-water.png]]

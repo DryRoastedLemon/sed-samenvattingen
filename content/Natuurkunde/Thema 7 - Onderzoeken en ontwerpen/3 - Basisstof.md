@@ -1,3 +1,3 @@
 ---
-title: "Basisstof 3: Basisstof 3"
+title: "3: Basisstof 3"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 5: Zwakke zuren"
+title: "5: Zwakke zuren"
 ---
 
 # Sterke en zwakke zuren
