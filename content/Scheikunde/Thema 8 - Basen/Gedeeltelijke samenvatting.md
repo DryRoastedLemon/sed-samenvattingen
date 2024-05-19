@@ -1,3 +1,7 @@
+---
+title: Gedeeltelijke samenvatting
+---
+
 - Ik zoek nog naar de tekst...
 - In het kort:
 # Zuren

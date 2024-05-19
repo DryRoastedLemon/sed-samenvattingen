@@ -1,3 +1,7 @@
+---
+title: "Basisstof 5: Zwakke zuren"
+---
+
 # Sterke en zwakke zuren
 - **Sterke zuren** splitsen volledig af in ionen.
 	- Als je 1 mol HCl oplost in water, ontstaat er 1 mol H<sup>+</sup> en 1 mol Cl<sup>-</sup>. $$HCl (g) \rightarrow H^{+} (aq) + Cl^{-} (aq)$$

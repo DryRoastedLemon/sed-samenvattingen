@@ -1,3 +1,7 @@
+---
+title: "Basisstof 3: Molariteit"
+---
+
 - 1 mol = 6,022... x 10<sup>23</sup> deeltjes
 - De **molariteit M** van een oplossing geeft aan hoeveel mol er van een bepaalde stof opgelost is in een liter van een oplossing (in het kort: M = mol/L). Molariteit is ook te begrijpen als de concentratie van een oplossing.
 	- Voorbeeld: Een 4 M HCl oplossing is een oplossing waarin er per liter 4 mol HCl voorkomt. Je zegt dat de molariteit van de oplossing 4 mol/L is, óf dat het 4 M of molair is.

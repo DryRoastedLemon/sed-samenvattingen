@@ -1,3 +1,7 @@
+---
+title: "Basisstof 2: Zuren in water"
+---
+
 - De meeste zuren zijn moleculaire stoffen waarin de atoomsoort H voorkomt.
 - In alle zure oplossingen zijn er waterstofionen (H<sup>+</sup>) aanwezig.
 - Zuren zijn stoffen die een H<sup>+</sup>-ion kunnen afgeven, zoals HCl, HNO<sub>3</sub> en CH<sub>3</sub>COOH.

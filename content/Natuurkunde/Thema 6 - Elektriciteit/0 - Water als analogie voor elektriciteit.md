@@ -1,3 +1,7 @@
+---
+title: Water als analogie voor elektriciteit
+---
+
 ![[electricity-water.png]]
 Elektriciteit is vaak lastig om intuïtief gevoel voor te krijgen. Een handige analogie is om elektriciteit te vergelijken met een waterstroom:
 # Onderdelen
