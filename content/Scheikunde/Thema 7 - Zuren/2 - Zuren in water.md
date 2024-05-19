@@ -2,12 +2,19 @@
 title: "2: Zuren in water"
 ---
 
+# Wat zijn zuren?
 - De meeste zuren zijn moleculaire stoffen waarin de atoomsoort H voorkomt.
 - In alle zure oplossingen zijn er waterstofionen (H<sup>+</sup>) aanwezig.
 - Zuren zijn stoffen die een H<sup>+</sup>-ion kunnen afgeven, zoals HCl, HNO<sub>3</sub> en CH<sub>3</sub>COOH.
 ![[Zuren - Basisstof 2 - Zuren in water.png]]
+- Aanvulling: na elk molecuul staat tussen haakjes de fase waarin het verkeerd. Dit kan zijn:
+	- (s) = vast / solid;
+	- (l) = vloeibaar / liquid;
+	- (g) = gas / gaseous;
+	- (aq) = opgelost / aquaeous.
 - Bij oplossingsreacties van een zuur onstaan H<sup>+</sup>-ionen en negatieve ionen (zoals NO<sub>3</sub><sup>-</sup> in het voorbeeld). Dat negatieve ion noem je een **zuurrestion**: dit is de rest van het oorspronkelijke molecuul.
 
+# Sterke en zwakke zuren
 - Er zijn **sterke zuren** en **zwakke zuren**.
 	- **Sterke zuren** splitsen volledig in ionen. Dat betekent dat álle zuurmoleculen een H<sup>+</sup>-ion afstaan.
 		- HCl is een voorbeeld van een sterk zuur. Als HCl oplost ioniseert het volledig: er ontstaan H<sup>+</sup>- en Cl<sup>-</sup>-ionen, en er blijven geen HCl moleculen over.
