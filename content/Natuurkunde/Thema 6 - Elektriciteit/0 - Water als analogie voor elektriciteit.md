@@ -3,7 +3,7 @@ title: "Extra: Water als analogie voor elektriciteit"
 ---
 
 ![[electricity-water.png]]
-Elektriciteit is vaak lastig om intuïtief gevoel voor te krijgen. Een handige analogie is om elektriciteit te vergelijken met een waterstroom:
+Elektriciteit is vaak lastig om intuïtief gevoel voor te krijgen. Een handige analogie is om elektriciteit te vergelijken met een waterstroom, waarbij je elektronen in een schakeling vergelijkt met waterdeeltjes in een serie leidingen.
 # Onderdelen
 - **Electrische draden/verbindingen** worden vergeleken met **waterpijpen**.
 	- Door elektrische verbindingen stromen elektronen, en;
@@ -28,7 +28,7 @@ Dezelfde analogie kan gemaakt worden met de belangrijkste eenheden voor elektric
 - **Ampère (A)**
 	- Afgeleide eenheid van C/s: 1 A = 1 C/s.
 	- Een Coulomb is een geladen deeltje. De eenheid Ampère geeft aan hoeveel geladen deeltjes er per seconde door een gedeelte van een elektrische schakeling gaan.
-	- Vergelijkbaar met hoeveel waterdeeltjes er per seconde door een waterleiding stroomt (debiet).
+	- Vergelijkbaar met hoeveel waterdeeltjes er per seconde door een waterleiding stroomt.
 
 - **Vermogen (W)**
 	- Afgeleide eenheid van J/s = 1 W = 1 J/s

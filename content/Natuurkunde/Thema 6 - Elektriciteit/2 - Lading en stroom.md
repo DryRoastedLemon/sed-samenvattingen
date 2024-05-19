@@ -1,4 +1,4 @@
 ---
-title: "3: Basisstof 3"
+title: "2: Lading en stroom"
 ---
 # 🚧Work in progress🚧
