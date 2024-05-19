@@ -1,4 +1,4 @@
 ---
 title: Samenvattingen voor natuur- en scheikunde SE-D
 ---
-Gebruik het menu om Natuurkunde en Scheikunde samenvattingen te lezen.
+Gebruik het Explorer menu om de verschillende basisstoffen te bekijken!
