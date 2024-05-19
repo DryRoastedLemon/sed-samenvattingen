@@ -25,6 +25,7 @@ $$CH_{3}COOH (aq) \rightleftharpoons H^{+} (aq) + CH3COO^{-} (aq)$$
 # Rekenen met zwakke zuren
 - Voor **sterke zuren** kun je de molariteit gebruiken van het zuurmolecuul gebruiken omdat alles ioniseert, maar bij zwakke zuren is dat niet zo.
 - Voor het berekenen van de pH bij een zwak zuur moet de **evenwichtsvoorwaarde K** worden gebruikt. Bij zwakke zuren noemen we deze waarde de **zuurconstante K<sub>z</sub>**. Deze waarde geeft de verhouding weer tussen de stoffen vóór en na de pijl bij een reactie. **BINAS tabel 49 geeft de K<sub>z</sub>-waarden voor verschillende zwakke zuren.**
+- Kijk voor meer en beter uitgewerkte voorbeelden bij [[BINAS Tabel 49|BINAS Tabel 49 en Rekenvoorbeelden]].
 
 ## Voorbeeld 1: Waterstoffluoride
 
