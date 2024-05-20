@@ -1,5 +1,5 @@
 ---
-title: "Scheikunde: Belangrijkste concepten en formules"
+title: Belangrijkste concepten en formules
 ---
 # Thema 7: Zuren
 ## Concepten
@@ -26,8 +26,7 @@ $$[H^{+}] = 10^{-pH}$$
 
 $$Molariteit\,M = \frac{hoeveelheid\,mol\,(mol)}{volume\,oplossing\,(L)}$$
 
-**Evenwichtsvoorwaarde Kz**
-(Voorbeeldreactie)
+**Evenwichtsvoorwaarde Kz** (Met voorbeeldreactie)
 
 $$CH_{3}COOH \rightleftharpoons H^{+} + CH_{3}COO^{-}$$
 
@@ -57,8 +56,7 @@ $$[OH^{-}] = 10^{-pOH}$$
 
 $$pH = 14,00 - pOH$$
 
-**Evenwichtsvoorwaarde Kb**
-(Voorbeeldreactie)
+**Evenwichtsvoorwaarde Kb** (Met voorbeeldreactie)
 
 $$NH_{3} (aq) + H_{2}O (l) \rightarrow NH4^{+} (aq) + OH^{-} (aq)$$
 
