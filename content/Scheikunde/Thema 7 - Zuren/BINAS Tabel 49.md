@@ -5,7 +5,7 @@ title: BINAS Tabel 49 en rekenvoorbeelden
 ![[BINAS Tabel 49.png]]
 - In BINAS tabel 49 staan zuren en base en hun evenwichtsconstanten K<sub>z</sub> en de pK<sub>z</sub>. Die laatste wordt bijna niet gebruikt maar geeft wel een indicatie voor de zuurgraad.
 - Aan de linkerzijde staan zuren op volgorde van sterke zuren naar zwakke zuren. Dat is te zien aan de K<sub>z</sub> waarden maar nog duidelijker aan de pK<sub>z</sub>, die enorm laag is (dus erg zuur!) aan de bovenkant van de lijst.
-- Voor de basen aan de rectherzijde is het net andersom: de zwakke basen staan bovenaan en de sterke basen staan onderaan de lijst. Dat is op dezelfde manier te zien aan de K<sub>b</sub> en pK<sub>b</sub>, al is het duidelijker te zien aan de laatste.
+- Voor de basen aan de rechterzijde is het net andersom: de zwakke basen staan bovenaan en de sterke basen staan onderaan de lijst. Dat is op dezelfde manier te zien aan de K<sub>b</sub> en pK<sub>b</sub>, al is het duidelijker te zien aan de laatste.
 - Het gaat hier om niet-geioniseerde moleculen, dus de zuur- of basemoleculen voordat ze zijn opgelost in water.
 
 # Twee rekenvoorbeelden
