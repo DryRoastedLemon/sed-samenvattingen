@@ -1,7 +1,6 @@
 ---
 title: "1: De pH van een oplossing"
 ---
-
 - De **zuurgraad (pH)** van een oplossing kan **zuur**, **basisch** of **neutraal** zijn
 - De pH wordt bepaald door het aantal H<sup>+</sup>-ionen in een oplossing.  In een zure oplossing bevinden er zich veel H<sup>+</sup>-ionen in de oplossing, en in een basische oplossing veel OH<sup>-</sup>-ionen (en dus weinig H<sup>+</sup>-ionen).
 - De pH-schaal gaat van 0 (zuur) tot 14 (basisch). 7 Is neutraal.
