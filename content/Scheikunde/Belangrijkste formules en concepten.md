@@ -13,21 +13,26 @@ title: "Scheikunde: Belangrijkste concepten en formules"
 **Verband tussen pH en pOH**
 
 $$pH + pOH = 14,00$$
+
 **pH Berekenen**
 
 $$pH = -log^{[H^{+}]}$$
+
 **\[H<sup>+</sup>\] berekenen**
 
 $$[H^{+}] = 10^{-pH}$$
+
 **Molariteit berekenen**
 
 $$Molariteit\,M = \frac{hoeveelheid\,mol\,(mol)}{volume\,oplossing\,(L)}$$
+
 **Evenwichtsvoorwaarde Kz**
 (Voorbeeldreactie)
 
 $$CH_{3}COOH \rightleftharpoons H^{+} + CH_{3}COO^{-}$$
 
 $$K_{z} = \frac{[H^{+}]\times[CH_{3}COO^{-}]}{[CH_{3}COOH]}$$
+
 # Thema 8: Basen
 ## Concepten
 - Basen zijn stoffen die een H<sup>+</sup>-ion kunnen opnemen van water, waardoor een OH<sup>-</sup>-ion ontstaat.
@@ -39,6 +44,7 @@ $$K_{z} = \frac{[H^{+}]\times[CH_{3}COO^{-}]}{[CH_{3}COOH]}$$
 **Verband tussen pH en pOH**
 
 $$pH + pOH = 14,00$$
+
 **pOH Berekenen**
 
 $$pOH = -log^{[OH^{-}]}$$
@@ -57,4 +63,5 @@ $$pH = 14,00 - pOH$$
 $$NH_{3} (aq) + H_{2}O (l) \rightarrow NH4^{+} (aq) + OH^{-} (aq)$$
 
 $$K_{b} = \frac{[NH_{4}^{+}] \times [OH^{-}]}{NH_{3}} = 1,8 \times 10^{-5}$$
+
 (Merk op dat water er niet tussen staat)
