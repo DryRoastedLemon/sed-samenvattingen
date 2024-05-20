@@ -1,5 +1,5 @@
 ---
-title: "Extra: BINAS Tabel 49 en rekenvoorbeelden"
+title: BINAS Tabel 49 en rekenvoorbeelden
 ---
 # Hoe lees je BINAS tabel 49 af?
 ![[BINAS Tabel 49.png]]
