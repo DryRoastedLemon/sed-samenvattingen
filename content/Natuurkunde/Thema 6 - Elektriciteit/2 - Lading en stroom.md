@@ -19,18 +19,27 @@ title: "2: Lading en stroom"
 - **Stroomsterkte (symbool: I, eenheid: A):** De hoeveelheid lading die in een bepaalde tijd door een deel van een draad stroomt.
 
 $$I = \frac{Q}{t}$$
-	- I: Elektrische stroomsterkte in A
-	- Q: Hoeveelheid lading in C die door een dwarsdoorsnede van een draad stroomt
-	- t: De tijd in s waarin deze lading stroomt
+```
+I: Elektrische stroomsterkte in A
+Q: Hoeveelheid lading in C die door een dwarsdoorsnede van een draad stroomt
+t: De tijd in s waarin deze lading stroomt
+```
 # Meten van stroomsterkte
 - Voor het meten van de stroomsterkte gebruik je een **stroommeter / ampèremeter**. Dit schakel je in serie:
 
 ![[amperemeter.png]]
+- Meer info: [[In serie en parallel schakelen]]
 # Capaciteit
  - De **capaciteit** van een batterij is de hoeveelheid energie die erin is opgeslagen. Vaak in mAh (milliampèreuur) weergegeven, d.w.z. hoeveel mA het aan stroom kan leveren voor een uur.
  - Een batterij met een capaciteit van 600 mAh kan één uur een stroom leveren van 600 mA. Of twee uur een stroom van 300 mA. Of zes uur een stroom van 100 mA.
 # Diode
-- Een **diode** zorgt ervoor dat stroom maar één richting op kan.
-# LED
-- Een LED is een diode die licht afgeeft.
-# 🚧Work in progress🚧
+![[diode.png]]
+- Een **diode** zorgt ervoor dat stroom maar één richting op kan: alleen de richting op van de pijl van het symbool.
+- In het linker plaatje loopt er links wel een stroom naar het lampje, maar in het rechter plaatje niet.
+	- Stroom loopt van de plus- naar de minpool, maar omdat de diode in het rechter plaatje de stroom tegenhoudt geeft het lampje geen licht.
+
+![[diode2.png]]
+
+# Led
+![[led.png]]
+- Een Led (light emiting diode) is een diode die licht afgeeft.

@@ -18,12 +18,12 @@ Zie BINAS tabel 17B voor meer componenten.
 
 ![[weerstanden.png]]
 - In deze schakeling zie je een spanningsbron en drie weerstanden die **in serie geschakeld** zijn.
-- Meer info: [[Serie en parallel schakelen]]
+- Meer info: [[In serie en parallel schakelen]]
 
 ![[Voorbeeldschakeling4.png]]
 - In deze schakeling zie je een spanningsbron en drie lampjes die achter elkaar zijn geschakeld.
 - De lampjes zijn **in serie geschakeld**.
-- Meer info: [[Serie en parallel schakelen]]
+- Meer info: [[In serie en parallel schakelen]]
 
 ![[gemengde schakeling.png]]
 - In deze schakeling zie je een spanningsbron en drie lampjes.

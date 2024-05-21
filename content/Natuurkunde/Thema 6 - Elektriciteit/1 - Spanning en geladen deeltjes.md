@@ -23,7 +23,7 @@ title: "1: Spanning en geladen deeltjes"
 - Veel batterijen hebben een spanning van 1,5 V, maar sommige apparaten hebben meer spanning nodig om goed te werken.
 - **Batterijen in serie geschakeld (achter elkaar):** Tel het voltage van de batterijen bij elkaar op. Twee batterijen van 1,5 V in serie geschakeld leveren dus een voltage van 3,0 V.
 - **Batterijen parallel geschakeld:** De spanning blijft hetzelfde maar de capaciteit gaat omhoog. Dan kan een apparaat bijvoorbeeld langer blijven werken.
-- Meer info: [[Serie en parallel schakelen]]
+- Meer info: [[In serie en parallel schakelen]]
 ## Andere spanningsbronnen
 - Elektrochemische cellen, batterijen en zonnecellen kunnen energie leveren.
 - Batterijen doen dat met een chemische reactie tot ze 'leeg' zijn.
