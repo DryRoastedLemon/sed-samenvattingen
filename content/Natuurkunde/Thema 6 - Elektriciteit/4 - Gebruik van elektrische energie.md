@@ -2,8 +2,9 @@
 title: "4: Gebruik van elektrische energie"
 ---
 # Vermogen
-- Het **vermogen P (eenheid: W)** is de hoeveelheid energie die per seconde wordt omgezet. De eenheid is watt (W). W is een afgeleide eenheid en kan ook gelezen worden als J/s.
+- Het **vermogen P (eenheid: W)** is de hoeveelheid energie die per seconde wordt verbruikt/omgezet. De eenheid is watt (W). W is een afgeleide eenheid en kan ook gelezen worden als J/s.
 - Een lamp van 60 W gebruikt dus per seconde 60 joule aan energie.
+- Het vermogen kan worden berekend met deze twee formules (BINAS tabel 35D):
 $$
 P = \frac{E}{t}
 $$
@@ -29,5 +30,5 @@ I: De stroomsterkte in A (= C/s)
 		- In één uur zitten 3600 seconden: 60 minuten x 60 secondes = 3600 secondes
 
 # Elektriciteit thuis
-...
+(Ik denk niet dat dit op de toets komt?)
 # 🚧Work in progress🚧

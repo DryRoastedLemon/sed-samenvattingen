@@ -65,7 +65,7 @@ l: De lengte van het voorwerp in m.
 
 ![[c3.png]]
 
-In een schakeling kan een weerstand er zo uitzien:
+In een schakeling kan een weerstand er zo uitzien. Hier staat een schakeling afgebeeld met een spanningsbron en een weerstand:
 
 ![[weerstandineenschakeling.png]]
 
