@@ -19,7 +19,7 @@ title: "1: Spanning en geladen deeltjes"
 # Spanningsbronnen
 - Batterijen, zonnecellen, accus en wandcontactdozen zijn voorbeelden van **spanningsbronnen**. Over de aansluitpunten (de plus en minpolen) staat spanning waardoor een spanningsbron elektrische energie kan leveren.
 ## Batterijen schakelen
-- Batterijen kun je [[In serie en parallel schakelen|in serie en/of parallel]] schakelen.
+- Batterijen kun je [[In serie en parallel schakelen|in serie en parallel]] schakelen.
 - Veel batterijen hebben een spanning van 1,5 V, maar sommige apparaten hebben meer spanning nodig om goed te werken.
 - **Batterijen in serie geschakeld (achter elkaar):** Tel het voltage van de batterijen bij elkaar op. Twee batterijen van 1,5 V in serie geschakeld leveren dus een voltage van 3,0 V.
 	- Levert dus meer energie!
