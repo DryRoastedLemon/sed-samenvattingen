@@ -6,6 +6,9 @@ title: "5: Weerstanden in een schakeling"
 - Meerdere weerstanden in een schakeling kunnen vaak worden samengevoegd tot één weerstand.
 	- Dit is belangrijk om te kunnen omdat alle weerstanden bij elkaar bepalen hoe groot de uiteindelijke stroomsterkte is.
 - Deze kenmerken en formules staan in BINAS tabel 35D.
+- De kenmerken die hieronder staan voor de totale spanning U<sub>tot</sub> en totale stroomsterke I<sub>tot</sub> gelden altijd voor serie- en parallelschakelingen. Dus niet per se alleen voor weerstanden, maar ook bijvoorbeeld voor lampjes!
+	- Als lampjes in serie staan gaat bijvoorbeeld dezelfde hoeveelheid stroom door alle lampjes, maar;
+	- Als lampjes parallel geschakeld zijn wordt de stroom verdeeld over alle lampjes.
 # Kenmerken van een serieschakeling
 
 $$ 

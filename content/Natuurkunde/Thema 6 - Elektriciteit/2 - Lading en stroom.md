@@ -28,6 +28,7 @@ t: De tijd in s waarin deze lading stroomt
 - Voor het meten van de stroomsterkte gebruik je een **stroommeter / ampèremeter**. Dit schakel je in serie:
 
 ![[amperemeter.png]]
+- Stroommeters hebben een verwaarloosbare weerstand.
 - Meer info: [[In serie en parallel schakelen]]
 # Capaciteit
  - De **capaciteit** van een batterij is de hoeveelheid energie die erin is opgeslagen. Vaak in mAh (milliampèreuur) weergegeven, d.w.z. hoeveel mA het aan stroom kan leveren voor een uur lang.

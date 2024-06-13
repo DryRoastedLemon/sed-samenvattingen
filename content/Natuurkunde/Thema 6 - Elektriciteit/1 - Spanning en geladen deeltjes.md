@@ -16,6 +16,7 @@ title: "1: Spanning en geladen deeltjes"
 ![[spanningmeter.png]]
 
 - Een voltmeter meet het spanningsverschil tussen twee punten in een schakeling. In deze afbeelding meet het de spanning over het lampje, d.w.z. het spanningsverschil vóór en na het lampje.
+- Voltmeters hebben zo'n hoge weerstand dat hier in principe geen stroom doorheen loopt.
 # Spanningsbronnen
 - Batterijen, zonnecellen, accus en wandcontactdozen zijn voorbeelden van **spanningsbronnen**. Over de aansluitpunten (de plus en minpolen) staat spanning waardoor een spanningsbron elektrische energie kan leveren.
 ## Batterijen schakelen
