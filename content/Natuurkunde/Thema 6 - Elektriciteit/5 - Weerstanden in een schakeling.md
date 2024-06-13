@@ -1,7 +1,7 @@
 ---
 title: "5: Weerstanden in een schakeling"
 ---
-- Elektrische componenten kun je in serie en parallel schakelen.
+- Elektrische componenten kun je [[In serie en parallel schakelen|in serie en parallel]] schakelen.
 - Of componenten in serie staan of parallel zijn geschakeld kan invloed hebben op de spanning, stroomsterkte en de weerstand over de verschillende componenten.
 - Meerdere weerstanden in een schakeling kunnen vaak worden samengevoegd tot één weerstand.
 	- Dit is belangrijk om te kunnen omdat alle weerstanden bij elkaar bepalen hoe groot de uiteindelijke stroomsterkte is.
@@ -9,6 +9,8 @@ title: "5: Weerstanden in een schakeling"
 - De kenmerken die hieronder staan voor de totale spanning U<sub>tot</sub> en totale stroomsterke I<sub>tot</sub> gelden altijd voor serie- en parallelschakelingen. Dus niet per se alleen voor weerstanden, maar ook bijvoorbeeld voor lampjes!
 	- Als lampjes in serie staan gaat bijvoorbeeld dezelfde hoeveelheid stroom door alle lampjes, maar;
 	- Als lampjes parallel geschakeld zijn wordt de stroom verdeeld over alle lampjes.
+
+---
 # Kenmerken van een serieschakeling
 
 $$ 
@@ -40,6 +42,8 @@ I_{tot} = U / R = 9,0 / 65 = 0,138 A
 $$
 
 ![[weerstanden_in_serie.png]]
+
+---
 # Kenmerken van een parallelschakeling
 
 $$

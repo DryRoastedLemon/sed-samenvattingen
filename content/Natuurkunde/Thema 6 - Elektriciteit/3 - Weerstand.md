@@ -27,6 +27,8 @@ I: Stroomsterkte in A
 U: Spanning in V
 R: Weerstand in Ω
 ```
+
+---
 # Ohmse en niet-ohmse weerstanden
 - Ohmse weerstanden en niet-Ohmse weerstanden geleiden elektriciteit anders. Dat kun je zien in een U,I-grafiek, waarbij de Ohmse weerstand een rechte lijn geeft. Een niet-Ohmse weerstand geeft een kromme lijn.
 - **Ohmse weerstanden (lijn b)**
@@ -59,6 +61,8 @@ l: De lengte van het voorwerp in m.
 - Zie BINAS Tabel 8 t/m 10 voor soortelijke weerstanden van materialen.
 - Hoe kleiner de soortelijke weerstand is, hoe makkelijker het materiaal elektronen kan geleiden.
 - **Let op:** het symbool ρ (uitgesproken als 'rho') wordt ook gebruikt voor dichtheid (eenheid: kg/m<sup>3</sup>).
+
+---
 # Soorten weerstanden
 - In BINAS tabel 17B staan de veel voorkomende elektrische componenten.
 - **Standaard weerstand:** Een gewone weerstand met een vaste waarde.

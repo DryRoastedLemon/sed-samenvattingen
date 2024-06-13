@@ -29,6 +29,7 @@ I: De stroomsterkte in A (= C/s)
 	- 1 kWh = (1 x 10<sup>3</sup>) x 3600 = 3,6 x 10<sup>6</sup> J
 		- In één uur zitten 3600 seconden: 60 minuten x 60 secondes = 3600 secondes
 
+---
 # Elektriciteit thuis
 (Ik denk niet dat dit op de toets komt?)
 # 🚧Work in progress🚧

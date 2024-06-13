@@ -6,6 +6,8 @@ title: "1: Spanning en geladen deeltjes"
 - Stroom gaat van de pluspool naar de minpool.
 - De hoeveelheid geladen deeltjes per seconde noem je de **stroom** in Ampère (A).
 - De hoeveelheid energie die de deeltjes hebben noem je de **spanning** in Volt (V).
+
+---
 # Spanning
 - **Spanning - Symbool: U - Eenheid: Volt / V**
 	- De eenheid van spanning is Volt (V). Volt is een afgeleide eenheid van Joule per Coulomb (dus 1 V = 1 J/C), en een Coulomb is een geladen deeltje.
@@ -33,6 +35,8 @@ title: "1: Spanning en geladen deeltjes"
 - Zonnecellen zetten stralingsenergie om naar elektrische energie.
 - Batterijen en zonnecellen produceren **gelijkspanning**. Dynamo's en generatoren (grote dynamo's bij elektriciteitscentrales bijvoorbeeld) produceren **wisselspanning**.
 	- [[Gelijkspanning en wisselspanning|Wat is gelijk- en wisselspanning?]]
+
+---
 # Energiedichtheid
 - De energiedichtheid van een stof geeft aan hoeveel energie is opgeslagen in een bepaalde  hoeveelheid materiaal, uitgedrukt in J/kg (voor vaste stoffen) of J/m<sup>3</sup> (voor gassen).
 - In [[BINAS Tabel 28B]] staat de stookwaarde van een aantal brandstoffen. Dat is de hoeveelheid energie die er in die stoffen zit per kg of m<sup>3</sup>.
