@@ -6,7 +6,7 @@ title: "5: Weerstanden in een schakeling"
 $$ 
 U_{tot} = U_{1} + U_{2}+ ...
 $$
-- De totale spanning is gelijk aan de som van deelspanningen over alle componenten. De grootste spanning staak over de grootste weerstand.
+- De totale spanning is gelijk aan de som van deelspanningen over alle componenten. De grootste spanning staat over de grootste weerstand.
 
 $$
 I_{tot} = I_{1} = I_{2} = ...
