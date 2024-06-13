@@ -3,11 +3,12 @@ title: "Extra: Water als analogie voor elektriciteit"
 ---
 
 ![[electricity-water.png]]
+![[water_elektriciteit.png]]
 Elektriciteit is vaak lastig om intuïtief gevoel voor te krijgen. Een handige analogie is om elektriciteit te vergelijken met een waterstroom, waarbij je elektronen in een schakeling vergelijkt met waterdeeltjes in een serie leidingen.
 # Onderdelen
-- **Electrische draden/verbindingen** worden vergeleken met **waterpijpen**.
+- **Electrische draden/verbindingen** worden vergeleken met **waterleidingen**.
 	- Door elektrische verbindingen stromen elektronen, en;
-	- Door waterpijpen stroomt water.
+	- Door waterleidingen stroomt water.
 
 - Een **batterij/voeding** wordt vergeleken met een **waterpomp**.
 	- Batterijen/voedingen geven meer energie aan de elektronen zodat ze werk kunnen verrichten, en;

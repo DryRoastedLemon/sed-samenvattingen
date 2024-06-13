@@ -4,6 +4,7 @@ title: "5: Weerstanden in een schakeling"
 - Elektrische componenten kun je in serie en parallel schakelen.
 - Of componenten in serie staan of parallel zijn geschakeld kan invloed hebben op de spanning, stroomsterkte en de weerstand over de verschillende componenten.
 - Meerdere weerstanden in een schakeling kunnen vaak worden samengevoegd tot één weerstand.
+	- Dit is belangrijk om te kunnen omdat alle weerstanden bij elkaar bepalen hoe groot de uiteindelijke stroomsterkte is.
 - Deze kenmerken en formules staan in BINAS tabel 35D.
 # Kenmerken van een serieschakeling
 
