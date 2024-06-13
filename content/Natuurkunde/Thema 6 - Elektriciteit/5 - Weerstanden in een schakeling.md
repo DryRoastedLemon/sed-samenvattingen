@@ -30,6 +30,12 @@ R_{tot} = 10 + 20 + 35 = 65\ohm
 $$
 Deze schakeling kun je dus ook tekenen met één weerstand van 65 Ohm.
 
+Met die informatie kun je dan berekenen hoeveel de totale stroom I<sub>tot</sub> is. Als de voeding een spanning heeft van 9,0 V zou het bijvoorbeeld zijn:
+
+$$
+I_{tot} = U / R = 9,0 / 65 = 0,138 A
+$$
+
 ![[weerstanden_in_serie.png]]
 # Kenmerken van een parallelschakeling
 
@@ -58,3 +64,8 @@ $$
 Deze schakeling kun je dus ook tekenen met één weerstand van 9,86 Ohm.
 
 ![[weerstanden_parallel.png]]
+Met die informatie kun je dan berekenen hoeveel de totale stroom I<sub>tot</sub> is:
+
+$$
+I = U / R = 9,0 / 9,86 = 1,0158 A
+$$
