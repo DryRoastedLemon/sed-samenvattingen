@@ -3,6 +3,7 @@ title: "1: Spanning en geladen deeltjes"
 ---
 # Wat is elektriciteit?
 - **Elektriciteit** wordt veroorzaakt door de verplaatsing van geladen deeltjes (elektronen) met een bepaalde hoeveelheid energie. Die deeltjes kunnen de energie dan ergens anders (zoals in een lampje) gebruiken.
+- Stroom gaat van de pluspool naar de minpool.
 - De hoeveelheid geladen deeltjes per seconde noem je de **stroom** in Ampère (A).
 - De hoeveelheid energie die de deeltjes hebben noem je de **spanning** in Volt (V).
 # Spanning
