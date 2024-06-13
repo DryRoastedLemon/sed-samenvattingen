@@ -59,6 +59,23 @@ U: De spanning in V (= J/C)
 I: De stroomsterkte in A (= C/s)
 ```
 
+# Rendement
+$$
+\eta = \frac{E_{nuttig}}{E_{in}}
+$$
+
+of:
+
+$$
+\eta = \frac{P_{nuttig}}{P_{in}}
+$$
+```
+η: Het rendement
+E(nuttig): De nuttige energie in J.
+E(in): De totale hoeveelheid omgezette energie in J.
+P(nuttig): Het nuttige vermogen in W.
+P(in): Het totale omgezette vermogen in W.
+```
 # Kenmerken van een serieschakeling
 
 $$ 
