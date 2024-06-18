@@ -19,8 +19,8 @@ Hieronder staat het voorbeeld wat ik had uitgetekend voor CO<sub>2</sub>, H<sub>
 De elektronenwolk van een H-atoom heeft maar 1 elektron en in O zitten er 8. Een O-atoom komt 2 elektronen te kort om op een edelgas te lijken. Als een O koppelt met 2 H-atomen, deelt elk H-atoom een elektron met het O-atoom. Dan lijken zowel de H-atomen en de O-atomen op een edelgas en dat is stabiel.
 Het O-atoom heeft een hogere **elektronegativiteit** en trekt dus iets harder aan de gedeelde elektronen waardoor de elektronen gemiddeld "langer" bij het O-atoom zijn. Dit heet een **polaire atoombinding**. In dit geval ontstaat er een negatieve pool aan de O-zijde van het molecuul, en een positieve pool aan de H-zijde.
 
-![[water.png]]
-![[Waterstofbruggen.png]]
+![[water2.png]]
+![[Scheikunde/H3 - Stoffen en reacties/Afbeeldingen/Waterstofbruggen.png]]
 ## Wanneer is een binding polair of niet polair?
 - Wel polair: verschil in elektronegativiteit tussen de 0,4 en 1,7.
 - Niet polair: verschil in elektronegativiteit tussen de twee atomen kleiner of gelijk aan 0,4.
