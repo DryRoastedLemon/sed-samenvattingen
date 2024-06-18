@@ -2,7 +2,7 @@
 title: "2: Karakteristieke groepen"
 ---
 # Halogeenalkanen
-- Dit zijn alkanen waarin één of meer waterstofatomen zijn vervangen door een halogeenatoom.
+- Dit zijn alkanen waarin één of meer H-atomen zijn vervangen door een halogeenatoom.
 - Halogeenatomen zijn:
 	- Fluor (F)
 	- Broom (Br)
@@ -15,19 +15,14 @@ title: "2: Karakteristieke groepen"
 
 - Twee C-atomen en enkele bindingen, dus de stamnaam is **ethaan**.
 - Nummer de C-atomen zo dat het fluor-atoom een zo laag mogelijke nummering krijgt. We nummeren dus van links naar rechts.
-- Systematische naamgeving: 1-fluorethaan
+- Systematische naamgeving: 1-fluorethaan.
 
-![[diflorethaan.png]]
+![[fluorpropaan.png]]
+- Drie C-atomen met enkele bindingen, dus de stamnaam is **propaan**.
+- Nummer de C-atomen op dezelfde wijze.
+- Systematische naamgeving: 1-fluorpropaan.
 
-- Twee C-atomen met enkele bindingen, dus de stamnaam is **ethaan**.
-- Twee fluoratomen aan het eerste en tweede C-atoom, dus **1,2-difluor** als voorvoegsel.
-- Systematische naamgeving: 1,2-difluorethaan.
-
-![[chloroform.png]]
-
-- Eén C-atoom, dus de stamnaam is **methaan**.
-- Er zitten drie chloor atomen aan, dus dat wordt **trichloro** of **trichloor**
-- Systematische naamgeving: trichloormethaan of trichloromethaan.
+---
 # Alkanolen
 - Alle alkanen waarin één waterstofatoom is vervangen door een **hydroxylgroep** (OH).
 - Behoren tot de **alcoholen**.
