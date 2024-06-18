@@ -41,3 +41,13 @@ $$
 - Dit is een waarde die óf te berekenen is, óf een waarde die wordt gegeven.
 	- In het boek wordt bijvoorbeeld K = 0,20 gegeven voor deze reactie. Als de concentratie van een van de stoffen bekend is kun je ook de concentratie van de andere stof berekenen.
 - Met die waarden kan je vervolgens weer concentraties van stoffen berekenen.
+
+# Extra voorbeeld
+- Stel dat je deze reactie hebt: 2 NO (g) + O<sub>2</sub> (g) ⇄ 2 NO<sub>2</sub> (g).
+- De evenwichtsconstante is:
+
+$$
+K = \frac{[NO_{2}]^{2}}{[NO]^{2}\times[O_{2}]}
+$$
+
+- Als er dus meerdere stoffen staan aan een kant van de pijl, worden de concentraties van die stoffen in de evenwichtsconstante met elkaar vermenigvuldigd.
