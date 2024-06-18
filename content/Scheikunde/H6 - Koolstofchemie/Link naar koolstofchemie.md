@@ -1,1 +1,0 @@
-https://www.studeersnel.nl/nl/document/roncalli-scholengemeenschap/scheikunde/samenvatting-koolstofchemie-havo/89699127?origin=search-results
