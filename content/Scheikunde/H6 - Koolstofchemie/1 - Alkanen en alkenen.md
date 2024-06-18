@@ -1,6 +1,8 @@
 ---
 title: "1: Alkanen en alkenen"
 ---
+# Powertip
+In dit hoofdstuk moet je veel koolstofketens kunnen benoemen. Lees daarvoor de voorbeelden in het boek goed door. Ik heb ook voorbeelden daaruit in deze samenvatting verwerkt en heb zelf ook voorbeelden bedacht.
 # Koolstofchemie
 - **Koolstofchemie:** organische chemie wat koolstofverbindingen bestudeert.
 - **Koolwaterstoffen:** verbindingen die alleen uit koolstof- en waterstofatomen bestaan zoals methaan en ethaan.
