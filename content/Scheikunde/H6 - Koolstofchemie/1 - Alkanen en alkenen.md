@@ -1,9 +1,9 @@
 ---
 title: "1: Alkanen en alkenen"
 ---
-# Termen
-- **Koolstofchemie:** organische chemie; het bestuderen van koolstofverbindingen.
-- **Koolwaterstoffen:** verbindingen die alleen uit koolstof- en waterstofatomen bestaan.
+# Koolstofchemie
+- **Koolstofchemie:** organische chemie wat koolstofverbindingen bestudeert.
+- **Koolwaterstoffen:** verbindingen die alleen uit koolstof- en waterstofatomen bestaan zoals methaan en ethaan.
 - **Onvertakt molecuul:** molecuul met één lange keten koolstofatomen. Zie het plaatje hieronder. Er is in beide moleculen maar één lange koolstofketen.
  
 ![[onvertaktmolecuul.png]]
@@ -12,20 +12,57 @@ title: "1: Alkanen en alkenen"
 
 ![[vertakt.png]]
 
-- **Isomerie:** verschijnsel waarbij er meerdere mogelijke structuurformules (vormen) horen bij dezelfde molecuulformule.
+- **Isomerie / structuurisomerie:** verschijnsel waarbij er meerdere mogelijke structuurformules (vormen) horen bij dezelfde molecuulformule.
 	- **Isomeren:** verschillende moleculen met dezelfde molecuulformule.
-	- **Structuurisomerie:** isomerie dat alleen heeft te maken met de structuur van een molecuul
 
-- **Verzadigd molecuul:** koolwaterstofmolecuul met alleen ENKELE bindingen tussen de koolstofatomen. Elk koolstofatoom heeft dan het maximum aantal bindingen met andere atomen gemaakt.
-- **Onverzadigd molecuul:** koolwaterstofmolecuul met minimaal één dubbele (of andere meervoudige) binding tussen de koolstofatomen. Er is dan minstens één koolstofatoom wat niet het maximum aantal bindingen met andere atomen heeft gemaakt.
+- **Verzadigd molecuul:** koolwaterstofmolecuul met alleen ENKELE bindingen tussen de koolstofatomen.
+- **Onverzadigd molecuul:** koolwaterstofmolecuul met minimaal één dubbele binding tussen de koolstofatomen.
 
 ![[verzadigd_onverzadigd.png]]
 
 ---
-# Koolstofketens en hoe ze te benoemen
+# Alkenen en alkanen
 De regels voor de naamgeving staan ook in BINAS 66D, al staat er wel heel veel.
+## Alkanen
+Alkaanmoleculen kunnen vertakt en onvertakt zijn. Tussen de C-atomen in een alkaanmolecuul komen alleen *enkelvoudige* bindingen voor (ze zijn dus altijd verzadigd).
+De namen van alkanen eindigen altijd op -aan.
 
-Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het molecuul (zie BINAS 66D):
+|                 | Alkanen                     |         |
+| --------------- | --------------------------- | ------- |
+| Aantal C Atomen | Formule                     | Naam    |
+| 1               | CH<sub>4</sub>              | Methaan |
+| 2               | C<sub>2</sub>H<sub>6</sub>  | Ethaan  |
+| 3               | C<sub>3</sub>H<sub>8</sub>  | Propaan |
+| 4               | C<sub>4</sub>H<sub>10</sub> | Butaan  |
+| 5               | C<sub>5</sub>H<sub>12</sub> | Pentaan |
+| 6               | C<sub>6</sub>H<sub>14</sub> | Hexaan  |
+### Voorbeeld
+
+![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethaan.png]]
+
+Dit is het alkaan ethaan. De koolstofketen bestaat uit twee koolstofatomen en het is een alkaan, dus wordt de naam "ethaan".
+## Alkenen
+Alkeenmoleculen kunnen ook vertakt of onvertakt zijn. In een alkeenmolecuul komt één dubbele binding tussen twee C-atomen voor (en ze zijn dus onverzadigd).
+De namen van alkenen eindigen altijd op -een.
+
+|                 | Alkenen                     |         |
+| --------------- | --------------------------- | ------- |
+| Aantal C Atomen | Formule                     | Naam    |
+| 1               | -                           | -       |
+| 2               | C<sub>2</sub>H<sub>4</sub>  | Etheen  |
+| 3               | C<sub>3</sub>H<sub>6</sub>  | Propeen |
+| 4               | C<sub>4</sub>H<sub>8</sub>  | Buteen  |
+| 5               | C<sub>5</sub>H<sub>10</sub> | Penteen |
+| 6               | C<sub>6</sub>H<sub>12</sub> | Hexeen  |
+### Voorbeeld
+
+![[etheen.png]]
+
+Dit is het alkeen etheen. Het bestaat ook twee koolstofatomen en het is een alkeen, dus de naam wordt "etheen".
+
+---
+## Systematische naamgeving
+Koolstofketens krijgen hun naam op basis van hoe lang de koolstofketen in het molecuul is (zie BINAS 66D):
 
 | Aantal C atomen | Voorvoegsel |
 | --------------- | ----------- |
@@ -35,73 +72,33 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 | 4               | But-        |
 | 5               | Pent-       |
 | 6               | Hex-        |
-- **Alkenen:** Alkenen zijn koolwaterstofmoleculen met alleen enkele bindingen in de hoofdketen (de langste keten).
-	- Uitgang: -aan (zoals meth**aan**)
-- **Alkenen:** Alkenen zijn onverzadigde koolwaterstofmoleculen met een dubbele binding in de hoofdketen
-	- Uitgang: -een (zoals eth**een**)
-- (**Alkynen:** Alkynen zijn onverzadigde koolwaterstofmoleculen met een driedubbele binding in de hoofdketen)
-	- Uitgang: -yn (zoals prop**yn**)
+- **Alkanen:** hebben als uitgang -aan (zoals meth**aan**)
+- **Alkenen:** hebben als uitgang: -een (zoals eth**een**)
+## Namen van vertake koolwaterstoffen
+Een vertakking krijgt ook een naam van het overeenkomstige alkaan, maar dan met de uitgang -yl. Een vertakking wat bestaat uit één koolstofatoom noem je bijvoorbeeld "methyl" (i.p.v. methaan), en een vertakking wat bestaat uit twee koolstofatomen noem je "ethyl" (i.p.v. ethaan).
 
-|                 | Alkanen                     |         | Alkenen                     |         |
-| --------------- | --------------------------- | ------- | --------------------------- | ------- |
-| Aantal C Atomen | Formule                     | Naam    | Formule                     | Naam    |
-| 1               | CH<sub>4</sub>              | Methaan | -                           | -       |
-| 2               | C<sub>2</sub>H<sub>6</sub>  | Ethaan  | C<sub>2</sub>H<sub>4</sub>  | Etheen  |
-| 3               | C<sub>3</sub>H<sub>8</sub>  | Propaan | C<sub>3</sub>H<sub>6</sub>  | Propeen |
-| 4               | C<sub>4</sub>H<sub>10</sub> | Butaan  | C<sub>4</sub>H<sub>8</sub>  | Buteen  |
-| 5               | C<sub>5</sub>H<sub>12</sub> | Pentaan | C<sub>5</sub>H<sub>10</sub> | Penteen |
-| 6               | C<sub>6</sub>H<sub>14</sub> | Hexaan  | C<sub>6</sub>H<sub>12</sub> | Hexeen  |
-- Dubbele bindingen en karakteristieke groepen (zie basisstof 2) kunnen vaker voorkomen in een koolstofketen.
+Het kan voorkomen dat een bepaalde zijtak vaker voorkomt in een molecuul. Bijvoorbeeld dat er twee methylgroepen zitten in het molecuul. Je geeft dat aan door:
+1. De nummers van de koolstofatomen aan te geven waar die vertakkingen zitten, en;
+2. Het juiste voorvoegsel voor de naam van de vertakking te zetten.
 
-| Hoe vaak komt de binding/groep voor? | Voorvoegsel |
-| ------------------------------------ | ----------- |
-| 1 keer                               | (Mono)      |
-| 2 keer                               | Di          |
-| 3 keer                               | Tri         |
+Dat voorvoegsel wordt bepaald door hoeveel er van zo'n vertakking is. Als er één methylgroep is, noem je het gewoon methyl. Maar als er twee zijn, noem je het *di*methyl, en als het er drie zijn noem je het *tri*methyl.
+### Voorbeeld
 
+![[vertakking1.png]]
 
+1. Zoek de langste onvertakte keten. Die bestaat uit vier koolstofatomen, allemaal met enkele bindingen. Daaruit volgt de stamnaam "butaan".
+2. Aan het tweede koolstofatoom zit een vertakking van één koolstofatoom. Die vertakking noem je dus een "methyl".
+3. De naam van de zijgroepen zet je vóór de stamnaam met het nummertje van het C-atoom waar het aan vast zit ervoor. De systematische naam wordt: 2-methylbutaan.
 
----
-# Systematische naamgeving
-1. Zoek de langste onvertakte keten, tel de koolstofatomen en kijk of dit een alkaan of alkeen is.
-2. In geval van alkeen: begin de nummering van de koolstofatomen op zo’n manier dat de dubbele binding ZO LAAG MOGELIJK zit
-3. Zijn er vertakkingen, zo ja, kijk op welk koolstofatoom ze zitten en benoem dat in de naam.
+![[vertakking3.png]]
+1. Zoek de langste onvertakte keten. Die bestaat uit vier koolstofatomen, allemaal met enkele bindingen. Daaruit volgt de stamnaam "butaan".
+2. Aan het tweede en het derde koolstofatoom zit een vertakking van één koolstofatoom. Die vertakking noem je dus een "methyl". Maar nu zijn het er twee, dus noem je dat "dimethyl".
+3. Zet ook hier de naam van de zijgroepen vóór de stamnaam met de nummers van het C-atomen waar het aan vast zit ervoor. Hier doe je dat zo: 2,3-dimethylbutaan.
+	1. "Di" geeft dus aan dat het om twee methylgroepen gaat, en;
+	2. "2,3" geeft aan dat die groepen aan het tweede en derde atoom zitten
 
-## Voorbeelden
-
-![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethaan.png]]
-
-- De langste onvertakte keten is 2 koolstofatomen lang
-	- Voorvoegsel: eth-
-- Er zitten alleen enkele bindingen in deze keten, dus het is een alkaan.
-	- Achtervoegsel: -aan
-- Systematische naam: ethaan.
-
-![[etheen.png]]
-
-- De langste onvertakte keten is hier ook 2 koolstofatomen lang
-	- Voorvoegsel: eth-
-- Er zit een dubbele binding in de keten, dus het is een alkeen.
-	- Achtervoegsel: -een
-- De dubbele binding kan maar op één plek zitten, dus de plek van de dubbele binding hoeven we niet te benoemen.
-- Systematische naam: etheen.
-
-![[but-1-een.png]]
-
-- De langste onvertakte keten is 4 koolstofatomen lang
-	- Voorvoegsel: but-
-- Er zit een dubbele binding in, dus is het een alkeen.
-	- Achtervoegsel: -een
-- De dubbele binding kan zich in dit molecuul op meerdere plekken bevinden. We willen de koolstofatomen zo nummeren dat de dubbele binding een laag nummer krijgt.
-	- We nummeren hier dus de C-atomen van rechts naar links. Dan zit de binding tussen de eerste twee C-atomen.
-	- We kunnen ook de koolstofatomen bijvoorbeeld nummeren van links naar rechts. Dan zit de dubbele binding tussen atoom 3 en 4. Maar dit is dus fout.
-- Systematische naam: but-1-een
-	- Merk op dat het nummertje tussen het voorvoegsel en het achtervoegsel zit. Dit komt omdat het achtervoegsel met de dubbele binding te maken heeft, en je wilt aangeven aan welk C-atoom die binding zit.
-
-![[tweedubbelebindingen.png]]
-
-- Dit is min of meer hetzelfde molecuul, maar het heeft nu twee dubbele bindingen.
-- Deze dubbele bindingen zitten aan het eerste en het derde C-atoom.
-- Systematische naam: but-1,3-dieen
-	- 1,3 - Hiermee wijs je naar de C-atomen.
-	- dieen - omdat het om twee dubbele bindingen gaat zet je er "di" voor.
+![[vertakking 2.png]]
+1. Zoek hier ook de langste keten. Die bestaat ook uit vier koolstofatomen, maar nu zit er een dubbele binding in. Het is dus een alkeen. Maar we kunnen het niet "buteen" noemen omdat we moeten aangeven waar die dubbele binding zit.
+2. Nummer de koolstofatomen zodat de dubbele binding het laagste getal krijgt. De dubbele binding zit tussen de C-atomen 2 en 3. Dan wordt de stamnaam: "but-2-een".
+3. Er zijn ook twee methyl vertakkingen, één aan het tweede en een aan het derde C-atoom. Voor de stamnaam komt dan "2,3-dimethyl" te staan.
+4. De volledige systematische naam is "2,3-dimethylbut-2-een".
