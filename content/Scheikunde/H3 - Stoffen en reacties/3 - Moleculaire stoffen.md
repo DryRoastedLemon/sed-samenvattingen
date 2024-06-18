@@ -64,4 +64,4 @@ Een **structuurformule** laat zien hoe een molecuul er ruimtelijk uitziet:
 ![[Scheikunde/H3 - Stoffen en reacties/Afbeeldingen/Water.png]]
 
 **Ethaan**
-![[Ethaan.png]]
+![[Scheikunde/H3 - Stoffen en reacties/Afbeeldingen/Ethaan.png]]

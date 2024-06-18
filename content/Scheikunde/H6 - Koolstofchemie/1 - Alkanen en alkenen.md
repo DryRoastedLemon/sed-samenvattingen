@@ -19,7 +19,7 @@ title: "1: Alkanen en alkenen"
 ![[verzadigd_onverzadigd.png]]
 
 ---
-# Koolstofketens
+# Koolstofketens en hoe ze te benoemen
 De regels voor de naamgeving staan ook in BINAS 66D, al staat er wel heel veel.
 
 Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het molecuul (zie BINAS 66D):
@@ -48,6 +48,15 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 | 4               | C<sub>4</sub>H<sub>10</sub> | Butaan  | C<sub>4</sub>H<sub>8</sub>  | Buteen  |
 | 5               | C<sub>5</sub>H<sub>12</sub> | Pentaan | C<sub>5</sub>H<sub>10</sub> | Penteen |
 | 6               | C<sub>6</sub>H<sub>14</sub> | Hexaan  | C<sub>6</sub>H<sub>12</sub> | Hexeen  |
+- Dubbele bindingen en karakteristieke groepen (zie basisstof 2) kunnen vaker voorkomen in een koolstofketen.
+
+| Hoe vaak komt de binding/groep voor? | Voorvoegsel |
+| ------------------------------------ | ----------- |
+| 1 keer                               | (Mono)      |
+| 2 keer                               | Di          |
+| 3 keer                               | Tri         |
+
+
 
 ---
 # Systematische naamgeving
@@ -56,3 +65,35 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 3. Zijn er vertakkingen, zo ja, kijk op welk koolstofatoom ze zitten en benoem dat in de naam.
 
 ## Voorbeelden
+![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethaan.png]]
+- De langste onvertakte keten is 2 koolstofatomen lang
+	- Voorvoegsel: eth-
+- Er zitten alleen enkele bindingen in deze keten, dus het is een alkaan.
+	- Achtervoegsel: -aan
+- Systematische naam: ethaan.
+
+![[etheen.png]]
+- De langste onvertakte keten is hier ook 2 koolstofatomen lang
+	- Voorvoegsel: eth-
+- Er zit een dubbele binding in de keten, dus het is een alkeen.
+	- Achtervoegsel: -een
+- De dubbele binding kan maar op één plek zitten, dus de plek van de dubbele binding hoeven we niet te benoemen.
+- Systematische naam: etheen.
+
+![[but-1-een.png]]
+- De langste onvertakte keten is 4 koolstofatomen lang
+	- Voorvoegsel: but-
+- Er zit een dubbele binding in, dus is het een alkeen.
+	- Achtervoegsel: -een
+- De dubbele binding kan zich in dit molecuul op meerdere plekken bevinden. We willen de koolstofatomen zo nummeren dat de dubbele binding een laag nummer krijgt.
+	- We nummeren hier dus de C-atomen van rechts naar links. Dan zit de binding tussen de eerste twee C-atomen.
+	- We kunnen ook de koolstofatomen bijvoorbeeld nummeren van links naar rechts. Dan zit de dubbele binding tussen atoom 3 en 4. Maar dit is dus fout.
+- Systematische naam: but-1-een
+	- Merk op dat het nummertje tussen het voorvoegsel en het achtervoegsel zit. Dit komt omdat het achtervoegsel met de dubbele binding te maken heeft, en je wilt aangeven aan welk C-atoom die binding zit.
+
+![[tweedubbelebindingen.png]]
+- Dit is min of meer hetzelfde molecuul, maar het heeft nu twee dubbele bindingen.
+- Deze dubbele bindingen zitten aan het eerste en het derde C-atoom.
+- Systematische naam: but-1,3-dieen
+	- 1,3 - Hiermee wijs je naar de C-atomen.
+	- dieen - omdat het om twee dubbele bindingen gaat zet je er "di" voor.

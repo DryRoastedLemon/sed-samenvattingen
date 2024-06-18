@@ -7,7 +7,7 @@ title: Intro tot koolstofchemie
 2. Op basis van de lengte van de keten, en of er enkele, dubbele of andere bindingen voorkomen in die reeks krijgt het een basisnaam volgens BINAS 66D.
 3. Vervolgens wordt elk kenmerkende groepje benoemd. Dat zijn groepjes die vastzitten aan de langste C-keten. Enkele H'tjes worden niet benoemd.
 # Hoe komt ethanol aan die naam?
-![[ethanol.png]]
+![[Scheikunde/Aanvullende informatie/Afbeeldingen/ethanol.png]]
 - Hier zien we alcohol, of ethanol. Waarom wordt het zo genoemd?
 - Je ziet dat het bestaan uit veel H'tjes, twee C'tjes en een O. Laten we beginnen met de C'tjes.
 - Koolstofmoleculen krijgen hun naam op basis van de langste koolstofketen. Dat wil zeggen de langste rij aan C'tjes. In dit geval zijn dat er twee, en er zijn alleen maar enkele bindingen (enkele streepjes) in die reeks. Uit BINAS tabel 66D haal je dan de basisnaam:

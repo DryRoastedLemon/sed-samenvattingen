@@ -12,7 +12,7 @@ In dit plaatje zijn de groene streepjes tussen de H- en O-atomen de waterstofbru
 - Kijk ook naar het verschil in kookpunten tussen ethaan en ethanol:
 
 **Ethanol** - Kookpunt: 78 graden Celsius
-![[ethanol.png]]
+![[Scheikunde/Aanvullende informatie/Afbeeldingen/ethanol.png]]
 
 **Ethaan** - Kookpunt: -88 graden Celsius
 ![[Ethaan 1.png]]
