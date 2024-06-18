@@ -28,6 +28,7 @@ title: "2: Karakteristieke groepen"
 - Alle alkanen waarin één waterstofatoom is vervangen door een **hydroxylgroep** (OH).
 - Behoren tot de **alcoholen**.
 - Achter de stamnaam komt het nummer van het koolstofatoom (altijd zo laag mogelijk) waar de hydroxylgroep aan vast zit en het achtervoegsel "ol".
+## Voorbeelden
 
 ![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethanol.png]]
 - Twee C-atomen, dus stamnaam is ethaan.
@@ -42,6 +43,7 @@ title: "2: Karakteristieke groepen"
 - Alle alkanen waarin een CH<sub>3</sub>-groep is vervangen door een carboxylgroep (COOH)
 - Behoren to de **carbonzuren**.
 - Achter de stamnaam komt "zuur" te staan. De COOH-groep zit altijd aan een van de uiteinden van een molecuul, dus hoef je niet te noteren op welke plaats deze zit.
+## Voorbeeld
 
 ![[ethaanzuur.png]]
 - Twee C-atomen met enkele bindingen, dus stamnaam is **ethaan**.
@@ -51,5 +53,6 @@ title: "2: Karakteristieke groepen"
 - Alle alkanen waarin een waterstofatoom is vervangen door een aminogroep (NH<sub>2</sub>)
 - Behoren to de **aminen**.
 - Achter de stamnaam komt het nummer van het koolstofatoom waar de groep aan vast zit en het woord "amine" te staan, zoals butaan-2-amine die hieronder staat afgebeeld.
+## Voorbeeld
 
 ![[butaan2amine.png]]
