@@ -10,17 +10,21 @@ title: "2: Karakteristieke groepen"
 	- Chloor (Cl)
 - Nummer ook hier de koolstofketen op zo'n manier dat de halogeenatomen een zo'n laag mogelijk nummertje krijgen.
 ## Voorbeelden
+
 ![[halogeenalkaan1.png]]
+
 - Twee C-atomen en enkele bindingen, dus de stamnaam is **ethaan**.
 - Nummer de C-atomen zo dat het fluor-atoom een zo laag mogelijke nummering krijgt. We nummeren dus van links naar rechts.
 - Systematische naamgeving: 1-fluorethaan
 
 ![[diflorethaan.png]]
+
 - Twee C-atomen met enkele bindingen, dus de stamnaam is **ethaan**.
 - Twee fluoratomen aan het eerste en tweede C-atoom, dus **1,2-difluor** als voorvoegsel.
 - Systematische naamgeving: 1,2-difluorethaan.
 
 ![[chloroform.png]]
+
 - Eén C-atoom, dus de stamnaam is **methaan**.
 - Er zitten drie chloor atomen aan, dus dat wordt **trichloro** of **trichloor**
 - Systematische naamgeving: trichloormethaan of trichloromethaan.
@@ -31,11 +35,13 @@ title: "2: Karakteristieke groepen"
 ## Voorbeelden
 
 ![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethanol.png]]
+
 - Twee C-atomen, dus stamnaam is ethaan.
 - De hydroxylgroep zit aan het eerste C-atoom, maar in dit geval hoeven we dat er niet bij te noemen. Als de groep aan het tweede C-atoom vastzit is het namelijk een isomeer: gewoon een spiegelbeeld.
 - Systematische naam: ethanol.
 
 ![[butaan-1-ol.png]]
+
 - Vier C-atomen, dus stamnaam is **butaan**.
 - De hydroxylgroep zit aan het eerste C-atoom.
 - Systematische naam: butaan-1-ol

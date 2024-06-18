@@ -5,8 +5,11 @@ title: "1: Alkanen en alkenen"
 - **Koolstofchemie:** organische chemie; het bestuderen van koolstofverbindingen.
 - **Koolwaterstoffen:** verbindingen die alleen uit koolstof- en waterstofatomen bestaan.
 - **Onvertakt molecuul:** molecuul met één lange keten koolstofatomen. Zie het plaatje hieronder. Er is in beide moleculen maar één lange koolstofketen.
+ 
 ![[onvertaktmolecuul.png]]
-- **Vertakt molecuul:** molecuul met zijtakken aan een lange keten koolstofatomen. In het plaatje hieronder staan twee vertakte moleculen (de H'tjes zijn hier weggelaten). Je ziet dat het bestaat uit een lange keten met zijtakken eraan die uitsteken.
+
+- **Vertakt molecuul:** molecuul met zijtakken aan een lange keten koolstofatomen. In het plaatje hieronder staan twee vertakte moleculen (de H'tjes zijn hier weggelaten). Je ziet dat het bestaat uit een lange keten met zijtakken eraan die uitsteken.\
+
 ![[vertakt.png]]
 
 - **Isomerie:** verschijnsel waarbij er meerdere mogelijke structuurformules (vormen) horen bij dezelfde molecuulformule.
@@ -65,7 +68,9 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 3. Zijn er vertakkingen, zo ja, kijk op welk koolstofatoom ze zitten en benoem dat in de naam.
 
 ## Voorbeelden
+
 ![[Scheikunde/H6 - Koolstofchemie/Afbeeldingen/ethaan.png]]
+
 - De langste onvertakte keten is 2 koolstofatomen lang
 	- Voorvoegsel: eth-
 - Er zitten alleen enkele bindingen in deze keten, dus het is een alkaan.
@@ -73,6 +78,7 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 - Systematische naam: ethaan.
 
 ![[etheen.png]]
+
 - De langste onvertakte keten is hier ook 2 koolstofatomen lang
 	- Voorvoegsel: eth-
 - Er zit een dubbele binding in de keten, dus het is een alkeen.
@@ -81,6 +87,7 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 - Systematische naam: etheen.
 
 ![[but-1-een.png]]
+
 - De langste onvertakte keten is 4 koolstofatomen lang
 	- Voorvoegsel: but-
 - Er zit een dubbele binding in, dus is het een alkeen.
@@ -92,6 +99,7 @@ Koolstofketens krijgen hun naam op basis van de langste koolstofketen in het mol
 	- Merk op dat het nummertje tussen het voorvoegsel en het achtervoegsel zit. Dit komt omdat het achtervoegsel met de dubbele binding te maken heeft, en je wilt aangeven aan welk C-atoom die binding zit.
 
 ![[tweedubbelebindingen.png]]
+
 - Dit is min of meer hetzelfde molecuul, maar het heeft nu twee dubbele bindingen.
 - Deze dubbele bindingen zitten aan het eerste en het derde C-atoom.
 - Systematische naam: but-1,3-dieen
