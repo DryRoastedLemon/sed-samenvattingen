@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 2: Waterstofbruggen"
+title: "2: Waterstofbruggen"
 ---
 # Wat is een waterstofbrug?
 

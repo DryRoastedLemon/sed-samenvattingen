@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 1: Zoutformules en namen"
+title: "1: Zoutformules en namen"
 ---
 **Ionbinding:** De binding tussen een positief geladen ion en een negatief geladen ion.
 

@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 0: Voorwoord"
+title: "0: Voorwoord"
 ---
 Author's note: Ik heb deze samenvatting volledig gebaseerd op materiaal van StudeerSnel en Scholieren.com. Ik kon niet goed bepalen om welke editie van de boeken het ging, maar ik heb mijn best gedaan!
 

@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 3: Moleculaire stoffen"
+title: "3: Moleculaire stoffen"
 ---
 Work in progress
 # Bindingen tussen atomen in een molecuul

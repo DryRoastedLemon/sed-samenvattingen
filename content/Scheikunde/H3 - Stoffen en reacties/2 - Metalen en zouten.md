@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 2: Metalen en zouten"
+title: "2: Metalen en zouten"
 ---
 Work in progress
 # Welke stoffen geleiden elektrische stroom?

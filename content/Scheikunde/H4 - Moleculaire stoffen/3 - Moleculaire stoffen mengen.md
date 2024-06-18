@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 3: Moleculaire stoffen mengen"
+title: "3: Moleculaire stoffen mengen"
 ---
 Stoffen met OH- en/of NH-groepen in hun moleculen lossen op in water als er in de moleculen geen lange staart van C- en H-atomen zitten. Deze stoffen vormen waterstofbruggen met watermoleculen.
 

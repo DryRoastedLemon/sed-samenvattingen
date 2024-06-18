@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 3: Zouthydraten"
+title: "3: Zouthydraten"
 ---
 **Zouthydraten:** Sommige zouten kunnen watermoleculen in hun ionrooster opnemen. Als dit is gebeurd, noem je deze stoffen zouthydraten. Het water dat is opgenomen, heet kristalwater.
 

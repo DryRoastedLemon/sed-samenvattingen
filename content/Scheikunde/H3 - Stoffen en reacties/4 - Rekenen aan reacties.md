@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 4: Reactievergelijkingen opstellen"
+title: "4: Reactievergelijkingen opstellen"
 ---
 Bij het opstellen van een reactievergelijking pas je de coëfficiënten zo aan dat links en rechts van de pijl het aantal atomen van elke soort even groot is. De index geeft aan hoeveel atomen er van een bepaalde atoomsoort in een molecuul zitten, en de coëfficiënt geeft aan hoeveel er van een bepaald molecuul reageert in een reactie.
 

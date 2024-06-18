@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 1: Vanderwaalsbinding"
+title: "1: Vanderwaalsbinding"
 ---
 De dichtheden van gassen zijn veel kleiner dan die van vloeistoffen en vaste stoffen. Dit komt doordat er in vloeistoffen en vaste stoffen meer moleculen zitten per m<sup>3</sup>. Dit wordt veroorzaakt doordat de moleculen in een vaste stof en een in een vloeistof elkaar  aantrekken. Deze kracht heet de **Vanderwaalskracht**. Daardoor ontstaat een verbinding die de **Vanderwaalsbinding** heet.
 

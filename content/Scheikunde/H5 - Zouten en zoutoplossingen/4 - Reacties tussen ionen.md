@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 4: Reacties tussen ionen"
+title: "4: Reacties tussen ionen"
 ---
 # !! Dit moet je goed kunnen!
 

@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 4: Percentage, ppm en ppb"
+title: "4: Percentage, ppm en ppb"
 ---
 - **Procenten:** per 100
 - **Promillage:** per 1.000

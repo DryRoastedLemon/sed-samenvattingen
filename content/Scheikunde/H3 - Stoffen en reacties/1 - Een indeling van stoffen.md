@@ -1,4 +1,4 @@
 ---
-title: "Basisstof 1: Een indeling van stoffen"
+title: "1: Een indeling van stoffen"
 ---
 Work in progress
