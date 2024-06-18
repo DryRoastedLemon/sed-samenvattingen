@@ -40,8 +40,13 @@ title: "2: Karakteristieke groepen"
 - Vier C-atomen, dus stamnaam is **butaan**.
 - De hydroxylgroep zit aan het eerste C-atoom.
 - Systematische naam: butaan-1-ol
+
+---
 # Alkaanzuren
 - Alle alkanen waarin een CH<sub>3</sub>-groep is vervangen door een carboxylgroep (COOH)
+ 
+![[carboxyl.png]]
+
 - Behoren to de **carbonzuren**.
 - Achter de stamnaam komt "zuur" te staan. De COOH-groep zit altijd aan een van de uiteinden van een molecuul, dus hoef je niet te noteren op welke plaats deze zit.
 ## Voorbeeld
@@ -50,10 +55,23 @@ title: "2: Karakteristieke groepen"
 - Twee C-atomen met enkele bindingen, dus stamnaam is **ethaan**.
 - Carboxylgroep (COOH) is aanwezig.
 - Systematische naam: ethaanzuur.
+
+---
 # Alkaanaminen
 - Alle alkanen waarin een waterstofatoom is vervangen door een aminogroep (NH<sub>2</sub>)
+
+![[amine.png]]
+
 - Behoren to de **aminen**.
-- Achter de stamnaam komt het nummer van het koolstofatoom waar de groep aan vast zit en het woord "amine" te staan, zoals butaan-2-amine die hieronder staat afgebeeld.
+- Achter de stamnaam komt het nummer van het koolstofatoom waar de groep aan vast zit en het woord "amine" te staan.
 ## Voorbeeld
 
-![[butaan2amine.png]]
+![[aminebenoemen.png]]
+
+- Nummer de koolstofketen zodat de zijgroep een zo laag mogelijke nummering krijgt. Vier C-atomen, dus de stamnaam is **butaan**.
+- Er is een NH<sub>2</sub> groep aanwezig, en die zit aan het tweede C-atoom.
+- Systematische naam: butaan-2-amine.
+
+---
+# Triviale namen
+Sommige koolstofverbindingen hebben triviale namen (zoals alcohol voor ethanol). Die kun je in BINAS tabel 66A terugvinden.
