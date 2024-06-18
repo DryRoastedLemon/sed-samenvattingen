@@ -24,4 +24,19 @@ Als je chloor gebruikt bij deze reactie in plaats van HCl krijg je het volgende:
 ![[chlooretheen2.png]]
 
 Hier zie je dat er twee chlooratomen worden toegevoegd.
-# 
+# Halogenen als indicator 
+Je kunt halogenen als indicator of reagens gebruiken om de aanwezigheid van dubbele bindingen aan te tonen. Broom heeft een geelbruine kleur als je het oplost in water, maar als er dubbele bindingen aanwezig zijn in het water addeert (toevoegt - van additie) het broom aan de dubbele binding. Dan verdwijnt de kleur, en wordt dus aangetoond dat er in de oplossing dubbele bindingen zitten.
+
+![[broomindicator.png]]
+# De productie van ethanol
+Ethanol kan op twee manieren worden geproduceerd:
+- Uit etheen
+- Uit glucose
+## Productie van ethanol uit etheen
+Als je water aan etheen addeert ontstaat er alcohol. Er is wel een katalysator nodig om de reactie plaats te laten vinden.
+
+![[ethanol1.png]]
+## Productie van ethanol uit glucose
+Glucose kan door een gistingsproces worden omgezet naar ethanol en koolstofdioxide.
+
+![[ethanol2.png]]
