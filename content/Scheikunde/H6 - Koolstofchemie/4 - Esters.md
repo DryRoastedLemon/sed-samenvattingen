@@ -22,3 +22,16 @@ title: "4: Esters"
 ![[afbraakesters.png]]
 ---
 # Oliën en vetten: vorming en afbraak
+- Natuurlijke olïen en vetten zijn esters.
+- Oliën en vetten zijn esters van **glycerol** (een alcohol met drie OH-groepen - ook wel propaan-1,2,3-triol) en carbonzuren met lange koolstofketens (**vetzuren**).
+
+![[glycerol.png]]
+
+![[vetzuren.png]]
+
+- Per glycerolmolecuul treet er drie keer een estervorming op met een vetzuur, waardoor er een **glyceroltri-ester** ontstaat.
+
+![[triglyceride.png]]
+
+## Afbraak van oliën en vetten
+Bij de afbraak van oliën en vetten treedt er hydrolyse op. De esters vallen uiteen waarbij losse **glycerol-** en **vetzuurmoleculen** ontstaan. In het lichaam gebeurt dit met enzymen, en buiten het lichaam kan dit met zwavelzuur als katalysator.
