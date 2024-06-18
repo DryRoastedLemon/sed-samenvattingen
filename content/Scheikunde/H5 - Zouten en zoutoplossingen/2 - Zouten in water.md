@@ -1,5 +1,5 @@
 ---
-title: "Basisstof 3: Namen en formules van zouten"
+title: "Basisstof 3: Zouten in water"
 ---
 **Hydratatie:** Wanneer een zout oplost, komen de ionen los uit het ionrooster en worden ze omringd door watermoleculen. Achter de formule van het ion schrijf je dan (aq).
 
