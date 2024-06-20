@@ -2,15 +2,34 @@
 title: "4: Percentage, ppm en ppb"
 ---
 - **Procenten:** per 100
-- **Promillage:** per 1.000
-- **Ppm:** per 1.000.000
+- **Ppm (Parts-per-million):** per 1.000.000
+- **Ppb (Parts-per-billion):** per 1.000.000.000
 
-Voor een berekening met percentage, promillage of ppm heb je nodig:
-- het volume of de massa van één van de stoffen uit het mengsel
-- het volume of de massa van het mengsel zelf
-- een kruisingstabel
+Ppm en ppb worden gebruikt als de hoeveelheid stof in een mengsel heel erg klein is.
+# Procenten
+Bereken het percentage van een stof X in een mengsel met:
 
-**Voorbeelden**
+$$
+\frac{hoeveelheid\,stof\,X}{hoeveelheid\,mengsel} \times 100\% =\,...\%
+$$
+
+# Ppm
+Bereken de ppm van een stof X in een mengsel met:
+
+$$
+\frac{hoeveelheid\,stof\,X}{hoeveelheid\,mengsel} \times 10^{6} =\,...\,ppm
+$$
+# Ppb
+Bereken de ppb van een stof X in een mengsel met:
+
+$$
+\frac{hoeveelheid\,stof\,X}{hoeveelheid\,mengsel} \times 10^{9} =\,...\,ppb
+$$
+
+# Voorbeelden
+Zie voor meer voorbeelden de voorbeelden uit het boek (blz. 118), maar hier ook wat zelf bedachte voorbeelden.
+
+
 - **In 100 mL zit 20 mL siroop opgelost. Uit hoeveel procent siroop bestaat de oplossing?**
 	- 20 / 100 = 0,2
 	- 0,2 * 100 = 20%
@@ -44,10 +63,3 @@ Voor een berekening met percentage, promillage of ppm heb je nodig:
 		- 5000 / 1000 = 5 mL
 	- Hoeveel is 20 promille van 5000 mL?
 		- 20 * 5 = 100 mL
----
-
-De **grenswaarde** of MAC-waarde van een stof geeft aan hoeveel mg van deze stof maximaal aanwezig mag zijn in 1,0 m3 lucht.
-
-De **ADI-waarde** is de aanvaardbare dagelijkse inname. Hoeveel mg van een stof je maximaal per dag per kg lichaamsgewicht binnen mag krijgen.
-
-De **LD50** is de hoeveelheid stof in microgram per kg die in een bepaalde tijd de dood veroorzaakt van de helft van de proefdieren
