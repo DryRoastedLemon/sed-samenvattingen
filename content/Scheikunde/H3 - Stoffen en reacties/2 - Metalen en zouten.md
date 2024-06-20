@@ -44,6 +44,8 @@ In de vaste fase zijn de bouwstenen van stoffen gerangschikt in een **kristalroo
 	- Hoog koolstofpercentage: gietijzer
 		- Heel erg hard.
 # De reactie tussen een metaal en een niet-metaal
+
+![[vormingzout.png]]
 - Bij de vorming van een **zout** reageert een metaal met een niet-metaal.
 - Daarbij staan de metaalatomen één of meerdere elektronen af aan de niet-metaalatomen.
 	- Daardoor wordt het metaalatoom positief geladen, en het niet-metaalatoom negatief geladen.
