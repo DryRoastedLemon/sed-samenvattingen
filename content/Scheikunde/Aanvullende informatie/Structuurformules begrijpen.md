@@ -5,7 +5,7 @@ title: Structuurformules begrijpen
 - Een **molecuulformule** geeft weer wat voor en hoeveel atomen er in een molecuul voorkomen. Zo bevat H<sub>2</sub>O twee waterstofatomen en één zuurstofatoom. Het zegt alleen niks over hoe dat atoom er uitziet.
 - **Structuurformules** geven ruimtelijk weer hoe een molecuul eruit ziet. Voor H<sub>2</sub>O is dat bijvoorbeeld:
 
-![[Watermolecuul.png]]
+![[Scheikunde/Aanvullende informatie/Afbeeldingen/Watermolecuul.png]]
 - Met een modelbouwkit zou je dat molecuul zo maken:
 
 ![[Watermolecuul_3D.png]]
