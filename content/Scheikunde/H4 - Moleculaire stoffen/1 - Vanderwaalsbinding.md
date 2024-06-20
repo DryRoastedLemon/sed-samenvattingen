@@ -3,6 +3,7 @@ title: "1: Vanderwaalsbinding"
 ---
 # Vanderwaalskrachten
 - **Vanderwaalskrachten** zijn zwakke aantrekkingskrachten tussen moleculen. Zorgt voor binding (**vanderwaalsbinding**) tussen moleculen die heel dicht op elkaar staan (zoals in de vaste en vloeibare fase).
+- Author's note: ik zie de vanderwaalskracht altijd als een soort mini-zwaartekracht tussen moleculen.
 - Vanderwaalskrachten treden altijd op tussen alle deeltjes. Het is alleen een erg zwakke kracht.
 - Hoe hoger de temperatuur van een stof is, hoe sneller de deeltjes gaan bewegen. Vanderwaalsbindingen worden daardoor verbroken als een stof verdampt of sublimeert.
 	- De deeltjes gaan dan verder van elkaar afstaan, en worden minder tot elkaar aangetrokken door de vanderwaalskracht.
