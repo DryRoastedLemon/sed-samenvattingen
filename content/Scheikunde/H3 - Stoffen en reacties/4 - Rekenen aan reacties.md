@@ -21,7 +21,7 @@ title: "4: Reactievergelijkingen opstellen"
 
 ![[rekenvoorbeeld 2.png]]
 
-![[rekenvoorbeeld3.png]]
+![[Scheikunde/H3 - Stoffen en reacties/Afbeeldingen/rekenvoorbeeld3.png]]
 # Rendement van een reactie
 - De opbrengst van een reatie is nooit 100%. Het percentage van de opbrengst noem je het **rendement** van een reactie.
 - Uit het laatste voorbeeld kan uit 1,00 kg ijzererts in theorie maximaal 6,99 x 10<sup>2</sup> g ijzer gewonnen worden. Maar als in in werkelijkheid maar 4,50 x 10<sup>3</sup> g ijzer gewonnen kan worden uit die hoeveelheid, is het rendement:
