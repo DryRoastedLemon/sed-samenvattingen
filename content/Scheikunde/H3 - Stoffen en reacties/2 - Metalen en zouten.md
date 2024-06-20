@@ -1,34 +1,27 @@
 ---
 title: "2: Metalen en zouten"
 ---
-Work in progress
-# Welke stoffen geleiden elektrische stroom?
-Een stof geleidt elektrische stroom als *tegelijkertijd* aan 2 voorwaarden wordt voldaan:
-- de stof moet bestaan uit geladen deeltjes
-- de geladen deeltjes moeten vrij kunnen bewegen
-## Moleculaire stoffen
-- Bestaan uit niet-metalen; ongeladen deeltjes / moleculen.
-- Geleiden *nooit* elektrische stroom
-- Voorbeeld: suiker, water en kaarsvet
-## Zouten
-- Geleiden alleen in *vloeibare fase*.
-- Bestaan uit metalen en niet-metalen. Geladen deeltjes die in de vaste fase niet vrij kunnen bewegen, maar in vloeibare fase wel. Deze geladen deeltjes zijn positieve en negatieve ionen.
-- Voorbeeld: zinkchloride, natriumchloride en natriumfluoride
-## Metalen
-- Geleiden in *vaste en vloeibare fase*.
-- Bestaan uit metalen.
-- Bevatten in elk van beide fasen beweeglijke geladen deeltjes: vrije elektronen. Deze zijn afkomstig van de metaalatomen, die daardoor zijn veranderd in positieve ionen. In de vaste fase bewegen alleen de vrije elektronen en blijven de positieve op een plaats. In de vloeibare fase bewegen de elektronen en de positieve ionen.
-- Voorbeeld: zink, ijzer en goud
 # Roosters
+In de vaste fase zijn de bouwstenen van stoffen gerangschikt in een **kristalrooster**.
+## Metaalroosters
+
+![[metaalrooster.png]]
+- Ontstaat doordat de metaalatomen elektronen loslaten, waardoor ze veranderen in positieve ionen.
+- Er is aantrekkingskracht tussen de positieve en negatieve geladen deeltjes in een metaal: in een metaal noem je dat de **metaalbinding**.
+- De vrije elektronen kunnen vrij door het metaal bewegen.
+- Geleidt stroom...
+	- ... in de vaste fase door de vrij bewegende elektronen;
+	- ... in de vloeibare fase door de metaalionen en de vrije elektronen.
+- De metaalbinding is meestal vrij sterk, en het smeltpunt van metalen is meestal erg hoog.
+## Ionroosters
+
+![[Scheikunde/H3 - Stoffen en reacties/Afbeeldingen/ionrooster.png]]
+- In een zout zijn positieve ionen geplaatst naast negatieve ionen. Die trekken elkaar aan, waardoor een zout stevig in elkaar zit: de **ionbinding**.
+- Er ontstaat een **ionrooster** waarbij positieve en negatieve ionen elkaar afwisselen.
+- Het hangt van de grote, lading van de ionen af, welke vorm het ionrooster zal aannemen.
 ## Molecuulroosters
 - In moleculaire stoffen zijn moleculen volgens een vast patroon gerangschikt: rooster.
 - Het hangt van de molecuulstructuur van de stof af welk patroon het rooster aanneemt.
-## Ionroosters
-- In een zout zijn positieve ionen geplaatst naast negatieve ionen. Die trekken elkaar aan, waardoor een zout stevig in elkaar zit: ionrooster.
-- Het hangt van de grote, lading van de ionen af, welke vorm het ionrooster zal aannemen.
-## Metaalroosters
-- Een metaalrooster ontstaat doordat de metaalatomen elektronen loslaten, waardoor ze veranderen in positieve ionen.
-- De vrije elektronen bewegen langs de positieve ionen, waardoor er aantrekkingskracht ontstaat tussen positief en negatief geladen deeltjes: het zit dus stevig in elkaar.
 ## Waarom is een metaal buigzaam en een zout niet?
 Een zout breekt doordat de ionen verschuiven ten opzichte van elkaar. Daardoor komen 
 positieve ionen naast positieve en negatieve ionen naast negatieve. Deeltjes met gelijke lading stoten elkaar af en het zout zal breken. 

@@ -4,7 +4,7 @@ title: "1: Zoutformules en namen"
 **Ionbinding:** De binding tussen een positief geladen ion en een negatief geladen ion.
 
 **Ionrooster:** Een ionrooster is en kristalrooster van een vast zout waarin de positieve en negatieve ionen regelmatig zijn gerangschikt.
-![[ionrooster.png]]
+![[Scheikunde/H5 - Zouten en zoutoplossingen/Afbeeldingen/ionrooster.png]]
 
 **Enkelvoudige ionen:** Ionen die uit 1 atoomsoort bestaan, zoals Na<sup>+</sup>.
 
