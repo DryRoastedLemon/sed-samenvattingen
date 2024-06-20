@@ -1,29 +1,31 @@
 ---
 title: "4: Reactievergelijkingen opstellen"
 ---
-Bij het opstellen van een reactievergelijking pas je de coëfficiënten zo aan dat links en rechts van de pijl het aantal atomen van elke soort even groot is. De index geeft aan hoeveel atomen er van een bepaalde atoomsoort in een molecuul zitten, en de coëfficiënt geeft aan hoeveel er van een bepaald molecuul reageert in een reactie.
+# Molverhouding
 
-In N<sub>2</sub>H<sub>3</sub> zijn de nummers 2 en 3 de index.
-In 2 CO is 2 de coëfficiënt.
+![[voorbeeldreactiemol.png]]
+- In deze voorbeeldreactie reageert 1 molecuul N<sub>2</sub> met 3 moleculen H<sub>2</sub> waarbij 2 moleculen NH<sub>3</sub> ontstaan.
+- Ook geldt dat er 1 mol N<sub>2</sub> met 3 mol H<sub>2</sub> reageert waarbij 2 mol NH<sub>3</sub> ontstaat.
+- De **molverhouding** is N<sub>2</sub> : H<sub>2</sub> : NH<sub>3</sub> = 1 : 3 : 2.
+	- Deze verhouding tussen beginstoffen en reactieproducten wordt de **stoichiometrische verhouding** genoemd van deze reactie.
+- Als er van een beginstof meer aanwezig is dan nodig is, blijft er wat van over na de reactie. Die stof is dan in **overmaat** aanwezig.
+# Rekenen met molverhoudingen
+1. Stel de reactievergelijking op
+2. Reken de massa of het volume van de gegeven stof om naar het aantal mol.
+3. Leidt de molverhouding af.
+4. Bereken het aantal mol gevraagde stof.
+5. Reken het aantal mol stof om naar de gevraagde eenheid.
+## Rekenvoorbeelden uit het boek
 
-Een reactievergelijking is een verkorte weergave van een reactie in formules. Voorbeeld:
+![[rekenvoorbeeld 1.png]]
+
+![[rekenvoorbeeld 2.png]]
+
+![[rekenvoorbeeld3.png]]
+# Rendement van een reactie
+- De opbrengst van een reatie is nooit 100%. Het percentage van de opbrengst noem je het **rendement** van een reactie.
+- Uit het laatste voorbeeld kan uit 1,00 kg ijzererts in theorie maximaal 6,99 x 10<sup>2</sup> g ijzer gewonnen worden. Maar als in in werkelijkheid maar 4,50 x 10<sup>3</sup> g ijzer gewonnen kan worden uit die hoeveelheid, is het rendement:
 
 $$
-2 H_{2}O_{2} (l) \rightarrow 2 H_{2}O (l) + O_{2} (g)
+\frac{4,50\times10^{2}}{6,99\times10^{2}}\times100\% = 64,4\%
 $$
-De coëfficiënten uit een reactievergelijking geven ook de **molverhouding** waarin de stoffen
-reageren en ontstaan. 
-
-De **vormingswarmte** van een verbinding is de hoeveelheid warmte (energie) die vrijkomt bij, of nodig is voor het vormen van één mol van de verbinding uit de elementen. De vormingswarmte van een element is 0.
-
-De **reactiewarmte** bereken je door alle vormingswarmten uit de reactievergelijking op te tellen.
-$$
-Vormingswarmte \times Coëfficiënt
-$$
-Je kunt ook een **energiediagram** tekenen voor de volledige verbranding van methaan waarin je de berekende reactiewarmte kunt invullen.
-
-Als je rekent met molverhoudingen heb je nodig:
-1. de reactievergelijking
-2. de gegeven stof (in mol)
-3. de gevraagde stof (in mol)
-4. de molverhouding

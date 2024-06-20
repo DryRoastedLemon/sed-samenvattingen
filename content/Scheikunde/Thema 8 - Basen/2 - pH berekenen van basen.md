@@ -31,7 +31,7 @@ $$BaO\,(s) + H_{2}O \rightarrow Ba^{2+} (aq) + OH^{-} (aq)$$
 
 $$BaO\,(s) + H_{2}O \rightarrow Ba^{2+} (aq) + 2OH^{-} (aq)$$
 
-![[rekenvoorbeeld3.png]]
+![[Scheikunde/Thema 8 - Basen/Afbeeldingen/rekenvoorbeeld3.png]]
 ![[Rekenvoorbeeld4.png]]
 - Hierbij geldt hetzelfde als bij voorbeeld 2. Je moet kunnen bepalen wat de oplosvergelijking is, en dat vond ik zelf altijd heel erg lastig.
 - Om de molecuulformule van calciumhydroxide te bepalen kun je BINAS tabel 45 gebruiken. Je moet je weten dat calcium Ca<sup>2+</sup>, en hydroxide is OH<sup>-</sup>. Om een neutraal zout te krijgen moet je dus twee OH<sup>-</sup>-ionen combineren met één Ca<sup>2+</sup>-ion: Ca(OH)<sub>2</sub>.
