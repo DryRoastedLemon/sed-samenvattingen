@@ -1,19 +1,16 @@
 ---
 title: "3: Moleculaire stoffen mengen"
 ---
-Stoffen met OH- en/of NH-groepen in hun moleculen lossen op in water als er in de moleculen geen lange staart van C- en H-atomen zitten. Deze stoffen vormen waterstofbruggen met watermoleculen.
-
-De oplosbaarheid van een stof geeft aan hoeveel gram van die stof maximaal kan oplossen in 100 gram water van een bepaalde temperatuur.
-
-- Los je een hoeveelheid stof op gelijk aan de oplosbaarheid > verzadigde oplossing. Er kan dan niks meer bij in de oplossing.
-- Doe je minder van een stof op dan de oplosbaarheid > onverzadigde oplossing. Er kan dan nog wat bij in de oplossing.
-- De oplosbaarheid van een vaste stof wordt meestal groter als de temperatuur stijgt.
-- De oplosbaarheid van een gas wordt kleiner als de temperatuur stijgt.
-
-**Schuim:** Een mengsel van een gas en een vloeistof. Belletjes van het gas zweven in de vloeistof.
-**Nevel:** een mengsel van een gas en een vloeistof. Druppels vloeistof zweven in het gas.
-**Rook:** een mengsel van een vaste stof en een gas. Kleine deeltjes van de vaste stof zweven in het gas.
-
-Je kunt een hydrofobe opgeloste stof verwijderen uit een waterige oplossing door extractie met een hydrofoob oplosmiddel.
-
-Het verdelingsevenwicht heeft zich ingesteld als de verhuis snelheden van de opgeloste stof van de waterlaag naar de hydrofobe vloeistof en omgekeerd gelijk aan elkaar zijn
+# Oplossen van stoffen
+- **Hydrofiele stoffen** lossen goed op in water.
+	- Kunnen H-bruggen vormen, en hebben dus OH- en/of NH-groepen.
+	- Hydrofiele stoffen mengen onderling.
+- **Hydrofobe stoffen** lossen niet goed op in water.
+	- Kunnen geen H-bruggen vormen, of niet genoeg om op te kunnen lossen.
+	- Hydrofobe stoffen mengen onderling.
+- Hydrofiele stoffen mengen niet met hydrofobe stoffen.
+# Oplosbaarheid van een stof
+- De **oplosbaarheid van een stof** is de maximale hoeveelheid gram van een stof die in 100 gram water opgelost kan worden.
+	- Bij deze hoeveelheid stof is de oplossing **verzadigd**; er kan dan niet meer bij worden opgelost.
+- Hoe hoger de temperatuur voor een vaste stof, hoe hoger de oplosbaarheid is.
+- Hoe hoger de temperatuur van een gas, hoe lager de oplosbaarheid is.
