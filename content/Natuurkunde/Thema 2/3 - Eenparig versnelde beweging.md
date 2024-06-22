@@ -47,6 +47,7 @@ De versnelling $a$ kun je dus ook halen uit de steilheid van een (v,t)-diagram:
 
 ![[raaklijnmethode.png]]
 - Teken op dat tijdstip (in het plaatje op $t = 1,5$ s) een raaklijn aan de grafiek, en trek de raaklijn door aan beide kanten tot de rand van het diagram.
+	- Een **raaklijn** is een lijn getekend op een bepaald punt van de grafiek met dezelfde steilheid van de grafiek op dat punt.
 - Bepaal de steilheid van de raaklijn met twee punten op de lijn:
 
 ![[steilheidraaklijn.png]]
