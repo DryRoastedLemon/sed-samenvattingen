@@ -43,3 +43,13 @@ De formules die zijn gebruikt als voorbeelden zijn in BINAS tabel 36 terug te vi
 	- **Dichtheid:** $\rho = \frac{m}{v}$
 # Lezen van tabellen
 - Je moet BINAS tabellen af kunnen lezen, waarbij je let op dat je de juiste machten van 10 gebruikt.
+
+# Omrekeningsfactoren van eenheden voor tijd en snelheid
+In deze tabellen staan verschillende eenheden van tijd omgerekend naar seconden:
+
+| Eenheid | Symbool en omrekeningsfactor |
+| ------- | ---------------------------- |
+| dag     | d = 86400 s                  |
+| jaar    | y = 3,15 x 10<sup>7</sup> s  |
+| minuut  | m = 60 s                     |
+| uur     | h = 3600 s                   |
